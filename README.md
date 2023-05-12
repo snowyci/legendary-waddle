@@ -5,7 +5,7 @@ Las leyendas de la oscuridad vuelven y se juntan...
 
 ## 🛠️ Requisitos
 
-- [RE-UE4SS](https://github.com/UE4SS-RE/RE-UE4SS/releases)
+- [RE-UE4SS](https://github.com/UE4SS-RE/RE-UE4SS)
 
 ## 🚀 Configuración
 - Recuerda leer la [wiki](../../wiki).
